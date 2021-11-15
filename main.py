@@ -15,4 +15,4 @@ elif(bmi <30):
 elif(bmi < 40):
     print("better see the doc")
 else:
-    print("run fat boy run!") 
+    print("BOY RUN!") 
